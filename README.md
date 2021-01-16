@@ -9,3 +9,5 @@ This is a simple app using:
 5. Redux
 
 The api used is JSON Placeholder.
+
+CodeSandbox Link: https://codesandbox.io/s/sharp-mountain-0eert
