@@ -1,0 +1,125 @@
+.HomeHeader {
+  margin-top: 0%;
+  height: 100px;
+  width: 100%;
+  background-color: #a2d0c1;
+  text-align: center;
+  color: #214151;
+}
+
+footer {
+  height: 100px;
+  width: 100%;
+  background-color: #214151;
+  text-align: center;
+  color: #eff7e1;
+  margin-top: 5%;
+}
+.footerText {
+  padding: 2%;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  line-height: 1.2;
+  background: #a2d0c1;
+  color: #0d335d;
+}
+h1 {
+  font-weight: 900;
+  text-align: center;
+  margin-top: 4rem;
+  line-height: 1.2;
+}
+
+h3 {
+  margin-top: 4rem;
+  line-height: 1.2;
+}
+
+.userPostsContainer {
+  text-align: left;
+  padding: 2%;
+  background-color: #f8dc81;
+  border: 2px solid #1a508b;
+  margin: 2% 0;
+}
+.userPostsContainerCol2 {
+  text-align: left;
+}
+
+.backButton {
+  color: white;
+  text-decoration: none;
+}
+
+.navbarTab {
+  margin: 3% 0;
+  text-align: center;
+}
+.btn {
+  background-color: #1a508b;
+  color: #fff3e6;
+}
+.commentContainer {
+  text-align: left;
+  padding: 2% 2%;
+  border: 2px solid #1a508b;
+  margin-top: 2%;
+}
+.postTitle {
+  margin: 5% 0;
+}
+.postBody {
+  margin-bottom: 5%;
+}
+.postContainer {
+  text-align: center;
+  background-color: #f8dc81;
+  border: 2px solid #1a508b;
+  margin-bottom: 3%;
+}
+.userInfo {
+  text-align: center;
+}
+.eachUser {
+  border: 2px solid #1a508b;
+  padding: 2% 2%;
+  margin: 2% 2%;
+  background-color: #f8dc81;
+}
+.addPostContainer {
+  text-align: center;
+  margin-top: 5%;
+}
+.hideButton {
+  text-align: right;
+}
+.showButton {
+  text-align: left;
+}
+
+.buttonContainer {
+  text-align: center;
+  padding: 0 0 5% 0;
+}
+.inputForm {
+  margin: 2% 2%;
+}
+textarea {
+  width: 500px;
+  height: 150px;
+}
+
+.formContainer {
+  border: 2px solid #1a508b;
+  background-color: #f8dc81;
+  padding-top: 2%;
+  margin-top: 2%;
+}
+.formContainerComment {
+  border: 2px solid #1a508b;
+  background-color: #f8dc81;
+  padding-top: 2%;
+}
